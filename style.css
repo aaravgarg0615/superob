@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.btn{
+    font-size: 20px;
+    width: 400px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    color: navy;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+
